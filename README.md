@@ -1,5 +1,5 @@
 # vue-currency-format
- A Vue.js filter for formatting currency. This is super useful when working with applications that displays a lot of pricing. It works well with Stripe currency formatting ie 1025 becomes £10.25
+ A Vue.js filter for formatting currency. This is super useful when working with applications that display pricing. It works well with Stripe currency formatting ie 1025 becomes £10.25
 
 
  ## Installation
@@ -11,14 +11,14 @@
 Then include it in your main vue file.
 
 ```
-import VueCurrencyFormat from '@/components/vue-currency-format'
+import VueCurrencyFormat from 'vue-currency-format'
 Vue.use(VueCurrencyFormat);
 ```
 
 You can also include some global options.
 
 ```
-import VueCurrencyFormat from '@/components/vue-currency-format'
+import VueCurrencyFormat from 'vue-currency-format'
 
 Vue.use(VueCurrencyFormat,{
     local: 'en',
