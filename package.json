@@ -1,0 +1,25 @@
+{
+  "name": "vue-currency-format",
+  "version": "1.0.0",
+  "description": "A Vue.js filter for formatting currency.",
+  "main": "vue-currency-format.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronlumsden/vue-currency-format.git"
+  },
+  "keywords": [
+    "vue.js",
+    "currency",
+    "format",
+    "money"
+  ],
+  "author": "Aaron Lumsden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronlumsden/vue-currency-format/issues"
+  },
+  "homepage": "https://github.com/aaronlumsden/vue-currency-format#readme"
+}
