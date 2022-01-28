@@ -39,8 +39,8 @@ or you can pass in options on an individual basis
 
 | Option  | Default Value | Description
 | ------------- | ------------- | -------------
-| Locale | en  | A [BCP 47](https://tools.ietf.org/html/bcp47) language tag (for example en or de-DE). Default is undefined (use the runtime's default locale).
-| Currency  | GBP  | A [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217) currency code (for example USD or EUR).
+| Locale | en  | A [BCP 47](https://tools.ietf.org/html/bcp47){:target="_blank"} language tag (for example en or de-DE). Default is undefined (use the runtime's default locale).
+| Currency  | GBP  | A [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217){:target="_blank"} currency code (for example USD or EUR).
 | hideSubUnits | false | Whether or not to show the sub units ie 1045 would be displayed as £10
 | subunitsValue | true | When set to true 1045 would be displayed as £1,025.00
 
